@@ -1,7 +1,5 @@
 package core.basesyntax;
-
 import java.util.Random;
-
 public class FigureSupplier {
     private static final int FIGURES_COUNT = FigureEnum.values().length;
     private static final int DEFAULT_RADIUS = 10;

@@ -1,5 +1,4 @@
 package core.basesyntax;
-
 public enum FigureEnum {
   SQUARE,
   CIRCLE,

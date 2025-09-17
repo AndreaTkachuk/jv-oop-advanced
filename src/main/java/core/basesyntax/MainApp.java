@@ -1,5 +1,4 @@
 package core.basesyntax;
-
 public class MainApp {
     private static final int ARRAY_CAPACITY = 10;
     public static void main(String[] args) {
